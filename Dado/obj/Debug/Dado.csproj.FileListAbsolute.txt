@@ -1,0 +1,10 @@
+C:\Users\ramon\Documents\Estructura de datos\Datos\Dado\Dado\bin\Debug\Dado.exe.config
+C:\Users\ramon\Documents\Estructura de datos\Datos\Dado\Dado\bin\Debug\Dado.exe
+C:\Users\ramon\Documents\Estructura de datos\Datos\Dado\Dado\bin\Debug\Dado.pdb
+C:\Users\ramon\Documents\Estructura de datos\Datos\Dado\Dado\obj\Debug\Dado.csprojResolveAssemblyReference.cache
+C:\Users\ramon\Documents\Estructura de datos\Datos\Dado\Dado\obj\Debug\Dado.Form1.resources
+C:\Users\ramon\Documents\Estructura de datos\Datos\Dado\Dado\obj\Debug\Dado.Properties.Resources.resources
+C:\Users\ramon\Documents\Estructura de datos\Datos\Dado\Dado\obj\Debug\Dado.csproj.GenerateResource.Cache
+C:\Users\ramon\Documents\Estructura de datos\Datos\Dado\Dado\obj\Debug\Dado.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Estructura de datos\Datos\Dado\Dado\obj\Debug\Dado.exe
+C:\Users\ramon\Documents\Estructura de datos\Datos\Dado\Dado\obj\Debug\Dado.pdb
